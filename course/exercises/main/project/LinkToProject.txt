@@ -1,3 +1,5 @@
+Tero Viiru
+
 Project source can be found at the link below. 
 
 https://github.com/tviiru1/frontend/tree/main/course/exercises/main/project
