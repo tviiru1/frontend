@@ -1,3 +1,5 @@
 Project source can be found at the link below. 
 
 https://github.com/tviiru1/frontend/tree/main/course/exercises/main/project
+
+Video of the functions of web page is named as 2021-11-28 14-48-54.mkv
