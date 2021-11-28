@@ -14,3 +14,5 @@ This is my course project.
 My project is started from file index.html below address
 
 https://htmlpreview.github.io/?https://github.com/tviiru1/frontend/blob/main/course/exercises/main/project/index.html
+
+Tero Viiru
