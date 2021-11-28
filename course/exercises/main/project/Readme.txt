@@ -11,4 +11,6 @@ This is my course project.
 * Roboto fonts in fonts folder
 * materialize.min.js in js folder
 
-My project is started from file index.html
+My project is started from file index.html below address
+
+https://htmlpreview.github.io/?https://github.com/tviiru1/frontend/blob/main/course/exercises/main/project/index.html
