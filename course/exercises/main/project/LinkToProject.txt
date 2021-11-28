@@ -6,7 +6,7 @@ https://github.com/tviiru1/frontend/tree/main/course/exercises/main/project
 
 Projecdt webpage can be found at the link below.
 
-https://htmlpreview.github.io/?https://github.com/tviiru1/frontend/blob/main/course/exercises/main/project/index.html#contact
+https://htmlpreview.github.io/?https://github.com/tviiru1/frontend/blob/main/course/exercises/main/project/index.html
 
 Video of the functions of web page is named as Frontend.mp4
 
