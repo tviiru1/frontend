@@ -10,3 +10,5 @@ This is my course project.
 * index.html in dist folder
 * Roboto fonts in fonts folder
 * materialize.min.js in js folder
+
+My project is started from file index.html
